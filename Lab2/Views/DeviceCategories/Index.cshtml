@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Lab2.Models.DeviceCategory>
+
+@{
+    ViewData["Title"] = "Device Categories";
+}
+
+<h2>Device Category Management</h2>
+
+<a asp-action="Create" class="btn btn-primary mb-3">
+    Add New Category
+</a>
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Category Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var category in Model)
+        {
+            <tr>
+                <td>@category.Id</td>
+                <td>@category.Name</td>
+                <td>
+                    <a asp-action="Edit"
+                       asp-route-id="@category.Id"
+                       class="btn btn-warning btn-sm">
+                        Edit
+                    </a>
+
+                    <a asp-action="Delete"
+                       asp-route-id="@category.Id"
+                       class="btn btn-danger btn-sm">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
