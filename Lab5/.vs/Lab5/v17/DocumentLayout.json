@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|d:\\study\\cse 422\\cse 422\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|d:\\study\\cse 422\\cse 422\\lab5\\factory\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|solutionrelative:factory\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|d:\\study\\cse 422\\cse 422\\lab5\\factory\\newspaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|solutionrelative:factory\\newspaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|d:\\study\\cse 422\\cse 422\\lab5\\factory\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|solutionrelative:factory\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|d:\\study\\cse 422\\cse 422\\lab5\\factory\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|solutionrelative:factory\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|d:\\study\\cse 422\\cse 422\\lab5\\factory\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|solutionrelative:factory\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|d:\\study\\cse 422\\cse 422\\lab5\\observer\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|solutionrelative:observer\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|d:\\study\\cse 422\\cse 422\\lab5\\observer\\usersubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|solutionrelative:observer\\usersubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|d:\\study\\cse 422\\cse 422\\lab5\\observer\\librarynotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|solutionrelative:observer\\librarynotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|d:\\study\\cse 422\\cse 422\\lab5\\singleton\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|solutionrelative:singleton\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|d:\\study\\cse 422\\cse 422\\lab5\\strategy\\bookfeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|solutionrelative:strategy\\bookfeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|d:\\study\\cse 422\\cse 422\\lab5\\strategy\\ifeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|solutionrelative:strategy\\ifeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|d:\\study\\cse 422\\cse 422\\lab5\\strategy\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|solutionrelative:strategy\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|d:\\study\\cse 422\\cse 422\\lab5\\strategy\\magazinefeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|solutionrelative:strategy\\magazinefeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|d:\\study\\cse 422\\cse 422\\lab5\\strategy\\newspaperfeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|solutionrelative:strategy\\newspaperfeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|d:\\study\\cse 422\\cse 422\\lab5\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8697F648-84AD-44B0-B86B-C2A15BA8D5F7}|Lab5.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2433,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookFeeStrategy.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Strategy\\BookFeeStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy\\BookFeeStrategy.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Strategy\\BookFeeStrategy.cs",
+              "RelativeToolTip": "Strategy\\BookFeeStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:30:26.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Singleton\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Singleton\\DatabaseConnection.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Singleton\\DatabaseConnection.cs",
+              "RelativeToolTip": "Singleton\\DatabaseConnection.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:28:48.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibraryNotifier.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Observer\\LibraryNotifier.cs",
+              "RelativeDocumentMoniker": "Observer\\LibraryNotifier.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Observer\\LibraryNotifier.cs",
+              "RelativeToolTip": "Observer\\LibraryNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:29:59.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserSubscriber.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Observer\\UserSubscriber.cs",
+              "RelativeDocumentMoniker": "Observer\\UserSubscriber.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Observer\\UserSubscriber.cs",
+              "RelativeToolTip": "Observer\\UserSubscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:30:06.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISubscriber.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Observer\\ISubscriber.cs",
+              "RelativeDocumentMoniker": "Observer\\ISubscriber.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Observer\\ISubscriber.cs",
+              "RelativeToolTip": "Observer\\ISubscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:29:51.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Factory\\Magazine.cs",
+              "RelativeDocumentMoniker": "Factory\\Magazine.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Factory\\Magazine.cs",
+              "RelativeToolTip": "Factory\\Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:32:40.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDocument.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Factory\\IDocument.cs",
+              "RelativeDocumentMoniker": "Factory\\IDocument.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Factory\\IDocument.cs",
+              "RelativeToolTip": "Factory\\IDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:29:06.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentFactory.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Factory\\DocumentFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\DocumentFactory.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Factory\\DocumentFactory.cs",
+              "RelativeToolTip": "Factory\\DocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:33:35.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Factory\\Book.cs",
+              "RelativeDocumentMoniker": "Factory\\Book.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Factory\\Book.cs",
+              "RelativeToolTip": "Factory\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:29:14.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Newspaper.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Factory\\Newspaper.cs",
+              "RelativeDocumentMoniker": "Factory\\Newspaper.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Factory\\Newspaper.cs",
+              "RelativeToolTip": "Factory\\Newspaper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:32:46.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:27:26.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IFeeStrategy.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Strategy\\IFeeStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy\\IFeeStrategy.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Strategy\\IFeeStrategy.cs",
+              "RelativeToolTip": "Strategy\\IFeeStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:30:20.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Strategy\\Loan.cs",
+              "RelativeDocumentMoniker": "Strategy\\Loan.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Strategy\\Loan.cs",
+              "RelativeToolTip": "Strategy\\Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:30:41.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MagazineFeeStrategy.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Strategy\\MagazineFeeStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy\\MagazineFeeStrategy.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Strategy\\MagazineFeeStrategy.cs",
+              "RelativeToolTip": "Strategy\\MagazineFeeStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:30:31.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NewspaperFeeStrategy.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Strategy\\NewspaperFeeStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy\\NewspaperFeeStrategy.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Strategy\\NewspaperFeeStrategy.cs",
+              "RelativeToolTip": "Strategy\\NewspaperFeeStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:30:36.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab5\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:32:33.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Study\CSE 422\CSE 422\Lab4\bin\Debug\net8.0\Lab4.exe
+D:\Study\CSE 422\CSE 422\Lab4\bin\Debug\net8.0\Lab4.deps.json
+D:\Study\CSE 422\CSE 422\Lab4\bin\Debug\net8.0\Lab4.runtimeconfig.json
+D:\Study\CSE 422\CSE 422\Lab4\bin\Debug\net8.0\Lab4.dll
+D:\Study\CSE 422\CSE 422\Lab4\bin\Debug\net8.0\Lab4.pdb
+D:\Study\CSE 422\CSE 422\Lab4\obj\Debug\net8.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\CSE 422\CSE 422\Lab4\obj\Debug\net8.0\Lab4.AssemblyInfoInputs.cache
+D:\Study\CSE 422\CSE 422\Lab4\obj\Debug\net8.0\Lab4.AssemblyInfo.cs
+D:\Study\CSE 422\CSE 422\Lab4\obj\Debug\net8.0\Lab4.csproj.CoreCompileInputs.cache
+D:\Study\CSE 422\CSE 422\Lab4\obj\Debug\net8.0\Lab4.sourcelink.json
+D:\Study\CSE 422\CSE 422\Lab4\obj\Debug\net8.0\Lab4.dll
+D:\Study\CSE 422\CSE 422\Lab4\obj\Debug\net8.0\refint\Lab4.dll
+D:\Study\CSE 422\CSE 422\Lab4\obj\Debug\net8.0\Lab4.pdb
+D:\Study\CSE 422\CSE 422\Lab4\obj\Debug\net8.0\Lab4.genruntimeconfig.cache
+D:\Study\CSE 422\CSE 422\Lab4\obj\Debug\net8.0\ref\Lab4.dll
