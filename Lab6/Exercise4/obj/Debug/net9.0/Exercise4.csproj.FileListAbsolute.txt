@@ -1,0 +1,15 @@
+D:\Study\CSE 422\CSE 422\Lab6\Exercise4\bin\Debug\net9.0\Exercise4.exe
+D:\Study\CSE 422\CSE 422\Lab6\Exercise4\bin\Debug\net9.0\Exercise4.deps.json
+D:\Study\CSE 422\CSE 422\Lab6\Exercise4\bin\Debug\net9.0\Exercise4.runtimeconfig.json
+D:\Study\CSE 422\CSE 422\Lab6\Exercise4\bin\Debug\net9.0\Exercise4.dll
+D:\Study\CSE 422\CSE 422\Lab6\Exercise4\bin\Debug\net9.0\Exercise4.pdb
+D:\Study\CSE 422\CSE 422\Lab6\Exercise4\obj\Debug\net9.0\Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\CSE 422\CSE 422\Lab6\Exercise4\obj\Debug\net9.0\Exercise4.AssemblyInfoInputs.cache
+D:\Study\CSE 422\CSE 422\Lab6\Exercise4\obj\Debug\net9.0\Exercise4.AssemblyInfo.cs
+D:\Study\CSE 422\CSE 422\Lab6\Exercise4\obj\Debug\net9.0\Exercise4.csproj.CoreCompileInputs.cache
+D:\Study\CSE 422\CSE 422\Lab6\Exercise4\obj\Debug\net9.0\Exercise4.sourcelink.json
+D:\Study\CSE 422\CSE 422\Lab6\Exercise4\obj\Debug\net9.0\Exercise4.dll
+D:\Study\CSE 422\CSE 422\Lab6\Exercise4\obj\Debug\net9.0\refint\Exercise4.dll
+D:\Study\CSE 422\CSE 422\Lab6\Exercise4\obj\Debug\net9.0\Exercise4.pdb
+D:\Study\CSE 422\CSE 422\Lab6\Exercise4\obj\Debug\net9.0\Exercise4.genruntimeconfig.cache
+D:\Study\CSE 422\CSE 422\Lab6\Exercise4\obj\Debug\net9.0\ref\Exercise4.dll

@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Lab6.Exercise3.Controllers.BaseController\u00601[[Exercise3.Models.Student, Exercise3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Student",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "Exercise3.Models.Student",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lab6.Exercise3.Controllers.BaseController\u00601[[Exercise3.Models.Teacher, Exercise3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Teacher",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "Exercise3.Models.Teacher",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
