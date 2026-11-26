@@ -1,6 +1,26 @@
-@LibraryManagement.API_HostAddress = http://localhost:5215
+@HostAddress = http://localhost:5215
 
-GET {{LibraryManagement.API_HostAddress}}/weatherforecast/
-Accept: application/json
+### Create Book
+POST {{HostAddress}}/api/Books
+Content-Type: application/json
 
-###
+{
+  "title": "Clean Code",
+  "author": "Robert C. Martin",
+  "isAvailable": true
+}
+
+### Get All Books
+GET {{HostAddress}}/api/Books
+
+### Get Book By ID
+GET {{HostAddress}}/api/Books/1
+
+### Test Invalid Book
+POST {{HostAddress}}/api/Books
+Content-Type: application/json
+
+{
+  "title": "",
+  "author": "Unknown"
+}

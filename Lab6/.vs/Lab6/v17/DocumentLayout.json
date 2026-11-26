@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A962112-2B2C-4894-8B2E-3F6673EFF62A}|Exercise5\\Exercise5.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A962112-2B2C-4894-8B2E-3F6673EFF62A}|Exercise5\\Exercise5.csproj|solutionrelative:exercise5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{710F2747-6AE2-47A4-8B9E-5FE751ECAC33}|Exercise3\\Exercise3.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise3\\exercise3.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{710F2747-6AE2-47A4-8B9E-5FE751ECAC33}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\exercise3.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A962112-2B2C-4894-8B2E-3F6673EFF62A}|Exercise5\\Exercise5.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise5\\decorators\\cachedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A962112-2B2C-4894-8B2E-3F6673EFF62A}|Exercise5\\Exercise5.csproj|solutionrelative:exercise5\\decorators\\cachedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{710F2747-6AE2-47A4-8B9E-5FE751ECAC33}|Exercise3\\Exercise3.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710F2747-6AE2-47A4-8B9E-5FE751ECAC33}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710F2747-6AE2-47A4-8B9E-5FE751ECAC33}|Exercise3\\Exercise3.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise3\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710F2747-6AE2-47A4-8B9E-5FE751ECAC33}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710F2747-6AE2-47A4-8B9E-5FE751ECAC33}|Exercise3\\Exercise3.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise3\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710F2747-6AE2-47A4-8B9E-5FE751ECAC33}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E01B75-7EB2-4329-93D3-CF18E59D6DC7}|Exercise2\\Exercise2.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise2\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{28E01B75-7EB2-4329-93D3-CF18E59D6DC7}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6DA4CD-1D8E-F7F4-FE28-6D5D755692EE}|Exercise1\\Exercise1.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise1\\exercise1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E6DA4CD-1D8E-F7F4-FE28-6D5D755692EE}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\exercise1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A962112-2B2C-4894-8B2E-3F6673EFF62A}|Exercise5\\Exercise5.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A962112-2B2C-4894-8B2E-3F6673EFF62A}|Exercise5\\Exercise5.csproj|solutionrelative:exercise5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A962112-2B2C-4894-8B2E-3F6673EFF62A}|Exercise5\\Exercise5.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise5\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,28 +63,12 @@
       "RelativeMoniker": "D:0:0:{E8CEBD6D-988E-419A-A5F6-30117C264862}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\strategies\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8CEBD6D-988E-419A-A5F6-30117C264862}|Exercise4\\Exercise4.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise4\\strategies\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8CEBD6D-988E-419A-A5F6-30117C264862}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\strategies\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8CEBD6D-988E-419A-A5F6-30117C264862}|Exercise4\\Exercise4.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise4\\strategies\\ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8CEBD6D-988E-419A-A5F6-30117C264862}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\strategies\\ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{710F2747-6AE2-47A4-8B9E-5FE751ECAC33}|Exercise3\\Exercise3.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{710F2747-6AE2-47A4-8B9E-5FE751ECAC33}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{710F2747-6AE2-47A4-8B9E-5FE751ECAC33}|Exercise3\\Exercise3.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise3\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{710F2747-6AE2-47A4-8B9E-5FE751ECAC33}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{710F2747-6AE2-47A4-8B9E-5FE751ECAC33}|Exercise3\\Exercise3.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{710F2747-6AE2-47A4-8B9E-5FE751ECAC33}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{710F2747-6AE2-47A4-8B9E-5FE751ECAC33}|Exercise3\\Exercise3.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise3\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{710F2747-6AE2-47A4-8B9E-5FE751ECAC33}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{710F2747-6AE2-47A4-8B9E-5FE751ECAC33}|Exercise3\\Exercise3.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise3\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{28E01B75-7EB2-4329-93D3-CF18E59D6DC7}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E6DA4CD-1D8E-F7F4-FE28-6D5D755692EE}|Exercise1\\Exercise1.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise1\\exercise1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6E6DA4CD-1D8E-F7F4-FE28-6D5D755692EE}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\exercise1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{28E01B75-7EB2-4329-93D3-CF18E59D6DC7}|Exercise2\\Exercise2.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise2\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28E01B75-7EB2-4329-93D3-CF18E59D6DC7}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -101,6 +101,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{28E01B75-7EB2-4329-93D3-CF18E59D6DC7}|Exercise2\\Exercise2.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28E01B75-7EB2-4329-93D3-CF18E59D6DC7}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E01B75-7EB2-4329-93D3-CF18E59D6DC7}|Exercise2\\Exercise2.csproj|d:\\study\\cse 422\\cse 422\\lab6\\exercise2\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{28E01B75-7EB2-4329-93D3-CF18E59D6DC7}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,67 +114,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 2433,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise3.http",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise3\\Exercise3.http",
+              "RelativeDocumentMoniker": "Exercise3\\Exercise3.http",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise3\\Exercise3.http",
+              "RelativeToolTip": "Exercise3\\Exercise3.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-11-26T00:12:19.268Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CacheDecorator.cs",
-              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise5\\Decorators\\CacheDecorator.cs",
-              "RelativeDocumentMoniker": "Exercise5\\Decorators\\CacheDecorator.cs",
-              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise5\\Decorators\\CacheDecorator.cs",
-              "RelativeToolTip": "Exercise5\\Decorators\\CacheDecorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:53:46.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise5\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Exercise5\\Services\\UserService.cs",
-              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise5\\Services\\UserService.cs",
-              "RelativeToolTip": "Exercise5\\Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:53:38.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise5\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Exercise5\\Services\\ProductService.cs",
-              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise5\\Services\\ProductService.cs",
-              "RelativeToolTip": "Exercise5\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:53:31.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IDataService.cs",
-              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise5\\Services\\IDataService.cs",
-              "RelativeDocumentMoniker": "Exercise5\\Services\\IDataService.cs",
-              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise5\\Services\\IDataService.cs",
-              "RelativeToolTip": "Exercise5\\Services\\IDataService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:53:24.493Z",
+              "Title": "Database.sql ",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise2\\Database.sql",
+              "RelativeDocumentMoniker": "Exercise2\\Database.sql",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise2\\Database.sql",
+              "RelativeToolTip": "Exercise2\\Database.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-26T00:11:11.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise5\\Program.cs",
               "RelativeDocumentMoniker": "Exercise5\\Program.cs",
@@ -183,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "PaymentService.cs",
               "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise4\\PaymentService.cs",
               "RelativeDocumentMoniker": "Exercise4\\PaymentService.cs",
@@ -191,12 +168,11 @@
               "RelativeToolTip": "Exercise4\\PaymentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:50:55.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T16:50:55.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "PaymentFactory.cs",
               "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise4\\PaymentFactory.cs",
               "RelativeDocumentMoniker": "Exercise4\\PaymentFactory.cs",
@@ -204,12 +180,11 @@
               "RelativeToolTip": "Exercise4\\PaymentFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:50:47.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T16:50:47.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "CryptoPayment.cs",
               "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise4\\Strategies\\CryptoPayment.cs",
               "RelativeDocumentMoniker": "Exercise4\\Strategies\\CryptoPayment.cs",
@@ -217,12 +192,11 @@
               "RelativeToolTip": "Exercise4\\Strategies\\CryptoPayment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:50:38.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T16:50:38.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "PayPalPayment.cs",
               "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise4\\Strategies\\PayPalPayment.cs",
               "RelativeDocumentMoniker": "Exercise4\\Strategies\\PayPalPayment.cs",
@@ -230,25 +204,99 @@
               "RelativeToolTip": "Exercise4\\Strategies\\PayPalPayment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:50:32.192Z",
+              "WhenOpened": "2026-11-25T16:50:32.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exercise1.csproj",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise1\\Exercise1.csproj",
+              "RelativeDocumentMoniker": "Exercise1\\Exercise1.csproj",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise1\\Exercise1.csproj",
+              "RelativeToolTip": "Exercise1\\Exercise1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-25T16:40:17.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CreditCardPayment.cs",
-              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise4\\Strategies\\CreditCardPayment.cs",
-              "RelativeDocumentMoniker": "Exercise4\\Strategies\\CreditCardPayment.cs",
-              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise4\\Strategies\\CreditCardPayment.cs",
-              "RelativeToolTip": "Exercise4\\Strategies\\CreditCardPayment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise3\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Exercise3\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise3\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Exercise3\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:50:24.936Z",
+              "WhenOpened": "2026-11-25T16:46:03.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise3\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Exercise3\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise3\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Exercise3\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T16:46:13.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise3\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Exercise3\\Controllers\\TeacherController.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise3\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Exercise3\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T16:46:20.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDataService.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise5\\Services\\IDataService.cs",
+              "RelativeDocumentMoniker": "Exercise5\\Services\\IDataService.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise5\\Services\\IDataService.cs",
+              "RelativeToolTip": "Exercise5\\Services\\IDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T16:53:24.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise5\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Exercise5\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise5\\Services\\ProductService.cs",
+              "RelativeToolTip": "Exercise5\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T16:53:31.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise5\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Exercise5\\Services\\UserService.cs",
+              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise5\\Services\\UserService.cs",
+              "RelativeToolTip": "Exercise5\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T16:53:38.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "IPaymentStrategy.cs",
               "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise4\\Strategies\\IPaymentStrategy.cs",
               "RelativeDocumentMoniker": "Exercise4\\Strategies\\IPaymentStrategy.cs",
@@ -256,12 +304,11 @@
               "RelativeToolTip": "Exercise4\\Strategies\\IPaymentStrategy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:50:17.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T16:50:17.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise4\\Program.cs",
               "RelativeDocumentMoniker": "Exercise4\\Program.cs",
@@ -269,12 +316,11 @@
               "RelativeToolTip": "Exercise4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:49:58.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T16:49:58.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise3\\Program.cs",
               "RelativeDocumentMoniker": "Exercise3\\Program.cs",
@@ -282,51 +328,11 @@
               "RelativeToolTip": "Exercise3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:48:35.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T16:48:35.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TeacherController.cs",
-              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise3\\Controllers\\TeacherController.cs",
-              "RelativeDocumentMoniker": "Exercise3\\Controllers\\TeacherController.cs",
-              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise3\\Controllers\\TeacherController.cs",
-              "RelativeToolTip": "Exercise3\\Controllers\\TeacherController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:46:20.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise3\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Exercise3\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise3\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Exercise3\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:46:13.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise3\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "Exercise3\\Controllers\\BaseController.cs",
-              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise3\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "Exercise3\\Controllers\\BaseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:46:03.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Teacher.cs",
               "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise3\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "Exercise3\\Models\\Teacher.cs",
@@ -334,12 +340,11 @@
               "RelativeToolTip": "Exercise3\\Models\\Teacher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:45:51.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T16:45:51.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise3\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Exercise3\\Models\\Student.cs",
@@ -347,12 +352,11 @@
               "RelativeToolTip": "Exercise3\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:45:44.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T16:45:44.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "IEntity.cs",
               "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise3\\Models\\IEntity.cs",
               "RelativeDocumentMoniker": "Exercise3\\Models\\IEntity.cs",
@@ -360,25 +364,11 @@
               "RelativeToolTip": "Exercise3\\Models\\IEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:45:36.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T16:45:36.839Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Exercise1",
-              "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise1\\Exercise1.csproj",
-              "RelativeDocumentMoniker": "Exercise1\\Exercise1.csproj",
-              "ToolTip": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise1\\Exercise1.csproj",
-              "RelativeToolTip": "Exercise1\\Exercise1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-25T16:40:17.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise2\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Exercise2\\Repositories\\GenericRepository.cs",
@@ -386,8 +376,7 @@
               "RelativeToolTip": "Exercise2\\Repositories\\GenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:25:17.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T16:25:17.241Z"
             },
             {
               "$type": "Document",
@@ -399,8 +388,7 @@
               "RelativeToolTip": "Exercise2\\Repositories\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:25:11.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T16:25:11.133Z"
             },
             {
               "$type": "Document",
@@ -412,8 +400,7 @@
               "RelativeToolTip": "Exercise2\\Models\\Teacher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:24:49.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T16:24:49.676Z"
             },
             {
               "$type": "Document",
@@ -425,12 +412,11 @@
               "RelativeToolTip": "Exercise2\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:24:44.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T16:24:44.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise2\\Program.cs",
               "RelativeDocumentMoniker": "Exercise2\\Program.cs",
@@ -438,8 +424,7 @@
               "RelativeToolTip": "Exercise2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T16:23:52.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T16:23:52.133Z"
             }
           ]
         }

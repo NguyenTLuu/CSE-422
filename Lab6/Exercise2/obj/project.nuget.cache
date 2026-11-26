@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "r1vQCOZIAyI=",
+  "dgSpecHash": "KN2inDIzz/o=",
   "success": true,
   "projectFilePath": "D:\\Study\\CSE 422\\CSE 422\\Lab6\\Exercise2\\Exercise2.csproj",
   "expectedPackageFiles": [
@@ -11,8 +11,8 @@
     "C:\\Users\\trong\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\7.1.2\\microsoft.data.sqlclient.sni.runtime.7.1.2.nupkg.sha512",
     "C:\\Users\\trong\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.21\\microsoft.extensions.caching.abstractions.9.0.21.nupkg.sha512",
     "C:\\Users\\trong\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.21\\microsoft.extensions.caching.memory.9.0.21.nupkg.sha512",
-    "C:\\Users\\trong\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\11.0.0\\microsoft.extensions.dependencyinjection.11.0.0.nupkg.sha512",
-    "C:\\Users\\trong\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\11.0.0\\microsoft.extensions.dependencyinjection.abstractions.11.0.0.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.11\\microsoft.extensions.dependencyinjection.9.0.11.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.21\\microsoft.extensions.dependencyinjection.abstractions.9.0.21.nupkg.sha512",
     "C:\\Users\\trong\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.21\\microsoft.extensions.logging.abstractions.9.0.21.nupkg.sha512",
     "C:\\Users\\trong\\.nuget\\packages\\microsoft.extensions.options\\9.0.21\\microsoft.extensions.options.9.0.21.nupkg.sha512",
     "C:\\Users\\trong\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.21\\microsoft.extensions.primitives.9.0.21.nupkg.sha512",

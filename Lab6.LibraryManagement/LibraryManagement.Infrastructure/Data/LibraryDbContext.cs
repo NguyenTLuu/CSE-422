@@ -22,5 +22,22 @@ namespace LibraryManagement.Infrastructure.Data
 
         public DbSet<BorrowRecord> BorrowRecords
             => Set<BorrowRecord>();
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<BorrowRecord>()
+                .HasOne<Book>()
+                .WithMany()
+                .HasForeignKey(b => b.BookId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            modelBuilder.Entity<BorrowRecord>()
+                .HasOne<Member>()
+                .WithMany()
+                .HasForeignKey(b => b.MemberId)
+                .OnDelete(DeleteBehavior.Restrict);
+        }
     }
 }

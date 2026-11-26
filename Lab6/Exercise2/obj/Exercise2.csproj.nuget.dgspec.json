@@ -56,7 +56,7 @@
             },
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[11.0.0, )"
+              "version": "[9.0.11, )"
             }
           },
           "imports": [

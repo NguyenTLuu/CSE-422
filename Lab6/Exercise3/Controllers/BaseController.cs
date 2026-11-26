@@ -1,7 +1,7 @@
 ﻿using Exercise3.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Lab6.Exercise3.Controllers
+namespace Exercise3.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

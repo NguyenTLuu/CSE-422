@@ -1,6 +1,25 @@
 @Exercise3_HostAddress = http://localhost:5129
 
-GET {{Exercise3_HostAddress}}/weatherforecast/
-Accept: application/json
+### Create Student
+POST {{Exercise3_HostAddress}}/api/Student
+Content-Type: application/json
 
-###
+{
+  "name": "John"
+}
+
+### Create Teacher
+POST {{Exercise3_HostAddress}}/api/Teacher
+Content-Type: application/json
+
+{
+  "name": "Anna"
+}
+
+### Test Invalid Data
+POST {{Exercise3_HostAddress}}/api/Student
+Content-Type: application/json
+
+{
+  "name": ""
+}

@@ -1,0 +1,16 @@
+D:\Study\CSE 422\CSE 422\Lab6.LibraryManagement\LibraryManagement.Application\bin\Debug\net9.0\LibraryManagement.Application.deps.json
+D:\Study\CSE 422\CSE 422\Lab6.LibraryManagement\LibraryManagement.Application\bin\Debug\net9.0\LibraryManagement.Application.dll
+D:\Study\CSE 422\CSE 422\Lab6.LibraryManagement\LibraryManagement.Application\bin\Debug\net9.0\LibraryManagement.Application.pdb
+D:\Study\CSE 422\CSE 422\Lab6.LibraryManagement\LibraryManagement.Application\bin\Debug\net9.0\LibraryManagement.Domain.dll
+D:\Study\CSE 422\CSE 422\Lab6.LibraryManagement\LibraryManagement.Application\bin\Debug\net9.0\LibraryManagement.Domain.pdb
+D:\Study\CSE 422\CSE 422\Lab6.LibraryManagement\LibraryManagement.Application\obj\Debug\net9.0\LibraryManagement.Application.csproj.AssemblyReference.cache
+D:\Study\CSE 422\CSE 422\Lab6.LibraryManagement\LibraryManagement.Application\obj\Debug\net9.0\LibraryManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\CSE 422\CSE 422\Lab6.LibraryManagement\LibraryManagement.Application\obj\Debug\net9.0\LibraryManagement.Application.AssemblyInfoInputs.cache
+D:\Study\CSE 422\CSE 422\Lab6.LibraryManagement\LibraryManagement.Application\obj\Debug\net9.0\LibraryManagement.Application.AssemblyInfo.cs
+D:\Study\CSE 422\CSE 422\Lab6.LibraryManagement\LibraryManagement.Application\obj\Debug\net9.0\LibraryManagement.Application.csproj.CoreCompileInputs.cache
+D:\Study\CSE 422\CSE 422\Lab6.LibraryManagement\LibraryManagement.Application\obj\Debug\net9.0\LibraryManagement.Application.sourcelink.json
+D:\Study\CSE 422\CSE 422\Lab6.LibraryManagement\LibraryManagement.Application\obj\Debug\net9.0\LibraryM.C4F4E017.Up2Date
+D:\Study\CSE 422\CSE 422\Lab6.LibraryManagement\LibraryManagement.Application\obj\Debug\net9.0\LibraryManagement.Application.dll
+D:\Study\CSE 422\CSE 422\Lab6.LibraryManagement\LibraryManagement.Application\obj\Debug\net9.0\refint\LibraryManagement.Application.dll
+D:\Study\CSE 422\CSE 422\Lab6.LibraryManagement\LibraryManagement.Application\obj\Debug\net9.0\LibraryManagement.Application.pdb
+D:\Study\CSE 422\CSE 422\Lab6.LibraryManagement\LibraryManagement.Application\obj\Debug\net9.0\ref\LibraryManagement.Application.dll
